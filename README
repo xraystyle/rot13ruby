@@ -1,0 +1,1 @@
+This is a quick patch to add rot13 encode/decode to the String class in Ruby.
